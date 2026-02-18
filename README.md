@@ -1,14 +1,18 @@
 Build Your Own RAG System from Scratch
 A Complete Local LLM + FAISS Implementation
-<p align="center"> <img src="assets/coverpage.jpg" alt="RAG System Architecture" width="100%"> </p>
+<p align="center"> <img src="coverpage.jpg" alt="RAG System Architecture" width="100%"> </p>
 
 Overview
 
 This project demonstrates how to build a Retrieval-Augmented Generation (RAG) system from scratch using:
 🤖 Local LLM (TinyLlama / Transformers)
+
 🔍 FAISS Vector Search
+
 🧠 BGE Embeddings (GPU-Accelerated)
+
 📄 PDF Course Material
+
 ⚡ Fully Local Inference (No APIs)
 
 The system converts raw course notes into a context-aware AI study assistant.
