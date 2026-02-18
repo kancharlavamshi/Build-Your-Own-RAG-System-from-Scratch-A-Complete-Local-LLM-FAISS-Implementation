@@ -1,6 +1,6 @@
 Build Your Own RAG System from Scratch
 A Complete Local LLM + FAISS Implementation
-<p align="center"> <img src="assets/coverpage.png" alt="RAG System Architecture" width="100%"> </p>
+<p align="center"> <img src="assets/coverpage.jpg" alt="RAG System Architecture" width="100%"> </p>
 
 Overview
 
