@@ -20,29 +20,29 @@ The system converts raw course notes into a context-aware AI study assistant.
 ## System Architecture
 
 PDF Course Notes
-
         ↓
+        
 Text Extraction (PyPDF)
-
         ↓
+        
 Chunking (with overlap)
-
         ↓
+        
 Embedding Model (BGE)
-
         ↓
+        
 FAISS Vector Index
-
         ↓
+        
 User Question
-
         ↓
+        
 Query Embedding
-
         ↓
+        
 Top-K Relevant Chunks
-
         ↓
+        
 Local LLM (Transformers) 
 
 
